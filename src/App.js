@@ -29,11 +29,19 @@ const App = () => {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="/foo"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          foo
+        </a>
+        <a
+          className="App-link"
+          href="/bar"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          bar
         </a>
       </header>
     </div>
